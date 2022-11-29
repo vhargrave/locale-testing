@@ -21,15 +21,15 @@ const LIBS = 'https://milo.adobe.com/libs';
 // Add any config options.
 const CONFIG = {
   // codeRoot: '',
-  // contentRoot: '',
   // imsClientId: 'college',
-  // geoRouting: 'off',
+  // geoRouting: 'on',
   // fallbackRouting: 'off',
   locales: {
     '': { ietf: 'en-US', tk: 'hah7vzn.css' },
     de: { ietf: 'de-DE', tk: 'hah7vzn.css' },
     kr: { ietf: 'ko-KR', tk: 'zfo3ouc' },
   },
+  contentRoot: '/milo-coffee'
 };
 
 // Default to loading the first image as eager.
