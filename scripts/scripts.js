@@ -22,12 +22,13 @@ const LIBS = 'https://milo.adobe.com/libs';
 const CONFIG = {
   // codeRoot: '',
   // imsClientId: 'college',
-  // geoRouting: 'on',
+  geoRouting: 'on',
   // fallbackRouting: 'off',
   locales: {
     '': { ietf: 'en-US', tk: 'hah7vzn.css' },
     de: { ietf: 'de-DE', tk: 'hah7vzn.css' },
     kr: { ietf: 'ko-KR', tk: 'zfo3ouc' },
+    ch_de: { ietf: 'de-CH', tk: 'vin7zsi.css' },
   },
   contentRoot: '/milo-coffee'
 };
