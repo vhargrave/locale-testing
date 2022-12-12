@@ -29,6 +29,8 @@ const CONFIG = {
     de: { ietf: 'de-DE', tk: 'hah7vzn.css' },
     kr: { ietf: 'ko-KR', tk: 'zfo3ouc' },
     ch_de: { ietf: 'de-CH', tk: 'vin7zsi.css' },
+    ch_fr: { ietf: 'fr-CH', tk: 'vin7zsi.css' },
+    ch_it: { ietf: 'it-CH', tk: 'vin7zsi.css' },
   },
   contentRoot: '/milo-coffee'
 };
