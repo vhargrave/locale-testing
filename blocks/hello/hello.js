@@ -5,7 +5,7 @@ export default async function init(el) {
   if (link) {
     const { createTag } = await import(`${getLibs()}/utils/utils.js`);
     const img = createTag('img', { src: link.href });
-    el.append(img);
+    el.append(img); //more
   }
   //super urgent
 }
