@@ -7,5 +7,5 @@ export default async function init(el) {
     const img = createTag('img', { src: link.href });
     el.append(img); //more
   }
-  //test
+  //super urgent
 }
