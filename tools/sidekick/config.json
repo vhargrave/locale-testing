@@ -12,10 +12,6 @@
       "includePaths": [ "**.docx**" ]
     },
     {
-      "id": "bulk-publish",
-      "excludePaths": ["/drafts/**"]
-    },
-    {
       "id": "translate",
       "title": "Translate",
       "environments": [ "edit" ],
