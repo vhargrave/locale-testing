@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://adobe.sharepoint.com/:f:/r/sites/milocoffee/Shared%20Documents/college
+  /:
+    url: https://content.da.live/vhargrave/locale-testing/
+    type: markup
