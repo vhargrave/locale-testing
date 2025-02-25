@@ -3,7 +3,7 @@
   "plugins": [
     {
       "id": "bulk-publish",
-      "excludePaths": ["/**"]
+      "excludePaths": ["/college/drafts/**"]
     },
     {
       "id": "publish",
