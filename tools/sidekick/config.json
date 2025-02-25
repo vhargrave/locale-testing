@@ -2,6 +2,10 @@
   "project": "College",
   "plugins": [
     {
+      "id": "publish",
+      "confirm": true
+    },
+    {
       "id": "library",
       "title": "Library",
       "environments": [ "edit" ],
@@ -14,7 +18,7 @@
     {
       "id": "translate",
       "title": "Translate",
-      "environments": [ "edit" ],
+      "environments": [ "dev" ],
       "url": "https://milo.adobe.com/tools/translation/index.html",
       "passReferrer": true,
       "include_paths": [ "**.xlsx**" ]
