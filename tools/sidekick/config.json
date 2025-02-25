@@ -2,6 +2,10 @@
   "project": "College",
   "plugins": [
     {
+      "id": "bulk-publish",
+      "excludePaths": ["/drafts/**"]
+    },
+    {
       "id": "publish",
       "confirm": true
     },
