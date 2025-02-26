@@ -2,17 +2,13 @@
   "project": "College",
   "plugins": [
     {
-      "id": "bulk-publish",
-      "excludePaths": ["/**"]
-    },
-    {
       "id": "publish",
       "confirm": true
     },
     {
       "id": "library",
       "title": "Library",
-      "environments": [ "dev" ],
+      "environments": [ "edit" ,"dev" ],
       "isPalette": true,
       "passConfig": true,
       "paletteRect": "top: auto; bottom: 20px; left: 20px; height: 398px; width: 360px;",
