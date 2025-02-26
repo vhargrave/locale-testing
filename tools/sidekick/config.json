@@ -3,6 +3,7 @@
   "plugins": [
     {
       "id": "publish",
+      "environments": [ "dev", "preview" ],
       "confirm": true
     },
     {
