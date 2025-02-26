@@ -3,6 +3,7 @@
   "plugins": [
     {
       "id": "publish",
+      "environments": [ "admin", "edit" ,"dev" ],
       "confirm": true
     },
     {
