@@ -2,11 +2,6 @@
   "project": "College",
   "plugins": [
     {
-      "id": "publish",
-      "environments": [ "admin", "edit" ,"dev" ],
-      "confirm": true
-    },
-    {
       "id": "library",
       "title": "Library",
       "isPalette": true,
