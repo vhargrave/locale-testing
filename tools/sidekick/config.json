@@ -1,5 +1,6 @@
 {
   "project": "College",
+  "host": "",
   "plugins": [
     {
       "id": "library",
